@@ -241,11 +241,11 @@ color: var(--secondary-color);
 .right3_con .activity_con .activity_chart{
     border: 1px solid var(--third-color);
 
-    width: 50%;
+    width: 46%;
     color: var(--third-color);
     /* background-color: var(--primary-color); */
 }
 .activity_chart2{
-    width: 50%;
+    width: 46%;
     border: 1px solid var(--third-color);
 }
